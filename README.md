@@ -1,2 +1,3 @@
 # VariousPowerShell
-Various PowerShell Scripts
+
+This repository is to hold various public PowerShell scripts.
